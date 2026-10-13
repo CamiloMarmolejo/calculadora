@@ -23,26 +23,4 @@ public class Calculadora {
         // TODO: escriba su código aquí
         throw new UnsupportedOperationException("TODO: restar");
     }
-
-    /** @return el producto de a y b */
-    public int multiplicar(int a, int b) {
-        // TODO: escriba su código aquí
-        throw new UnsupportedOperationException("TODO: multiplicar");
-    }
-
-    /**
-     * @return a dividido entre b, con decimales (ej.: 7 / 2 = 3.5)
-     * @throws ArithmeticException si b es 0 (mensaje: "No se puede dividir entre cero")
-     */
-    public double dividir(int a, int b) {
-        // TODO: escriba su código aquí.
-        // Pista: si divide dos int, Java descarta los decimales. Convierta uno a double.
-        throw new UnsupportedOperationException("TODO: dividir");
-    }
-
-    /** @return true si el número es par (el 0 es par; los negativos también pueden serlo) */
-    public boolean esPar(int numero) {
-        // TODO: escriba su código aquí
-        throw new UnsupportedOperationException("TODO: esPar");
-    }
 }
