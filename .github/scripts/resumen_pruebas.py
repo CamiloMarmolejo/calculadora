@@ -8,6 +8,7 @@
 Si el proyecto no compila no hay reportes: el total se cuenta a partir de los
 métodos @Test del código de pruebas y las aprobadas son 0.
 """
+
 import glob
 import os
 import re
